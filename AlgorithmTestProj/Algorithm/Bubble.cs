@@ -2,7 +2,7 @@ using System;
 
 using Xunit;
 
-namespace AlgorithmTestProj
+namespace AlgorithmTestProj.Algorithm
 {
     /// <summary>
     /// ц╟ещ
